@@ -1,5 +1,5 @@
 # Sudoku
-Java program that solves Sudoku puzzle file
+Java program that solves inputted Sudoku puzzle file
 
 Command to run:
 
